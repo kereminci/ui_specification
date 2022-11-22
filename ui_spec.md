@@ -1,5 +1,5 @@
 ## Components
-1. Footer 
+1. Header 
    * Icon button with add icon
    * checkmark with text, 
    * Button 
@@ -17,4 +17,4 @@
 
 ### Behavior
  1. When hide disabled user is check, table needs just view the enabled users
- 2. When the +new user button is clicked it should check the text fields and if it's proper, it's posted text field values to the database. 
+ 2. When the +new user button is clicked it should check the text fields and if it's proper, it's posted text field values to the database.  
